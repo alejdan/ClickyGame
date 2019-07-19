@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Mario",
+    "image": "https://mario.nintendo.com/assets/img/home/intro/mario-pose2.png",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Luigi",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/new-super-mario-bros-u/4/43/LuigiMP8Official.png?width=325",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Zelda",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b146ce3b-9902-422d-9fa7-23e6aa55b129/d7o1lf8-056210b4-6972-4eb6-9d38-cac4a0bf245c.png/v1/fill/w_757,h_1056,strp/princess_zelda_super_smash_bros__png_by_isobel_theroux_d7o1lf8-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM3NSIsInBhdGgiOiJcL2ZcL2IxNDZjZTNiLTk5MDItNDIyZC05ZmE3LTIzZTZhYTU1YjEyOVwvZDdvMWxmOC0wNTYyMTBiNC02OTcyLTRlYjYtOWQzOC1jYWM0YTBiZjI0NWMucG5nIiwid2lkdGgiOiI8PTk4NiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.3_47H2y-RDvGs28qd8Q5E6HBTD6kBdv6OrZsBWfUZIw",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Rosalina",
+    "image": "https://vignette.wikia.nocookie.net/hello-yoshi/images/9/9c/Rosalina_AND_Luma_ternima.png/revision/latest?cb=20190131190904",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Peach",
+    "image": "https://vignette.wikia.nocookie.net/we-are-peach/images/9/9d/Peach_MarioPartyTop100.png/revision/latest?cb=20180812044001",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Daisy",
+    "image": "https://vignette.wikia.nocookie.net/we-are-daisy/images/2/2b/000.png/revision/latest?cb=20170606160211",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Wario",
+    "image": "https://vignette.wikia.nocookie.net/great-characters/images/1/13/Wario%28MP100%29.png/revision/latest?cb=20180908001034",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Donkey Kong",
+    "image": "https://vignette.wikia.nocookie.net/fantendo/images/b/b5/SuperMarioParty_DonkeyKong.png/revision/latest?cb=20181005213911",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Toad",
+    "image": "https://www.mariowiki.com/images/d/db/SMR_Toad.png",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Yoshi",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/YoshiMarioParty10.png/220px-YoshiMarioParty10.png",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Bowser",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/77a638c2-9d34-4f8d-9aef-edb8d196b304/d6ebtax-b9380050-b687-43dd-a42b-f74c3dd57307.png/v1/fill/w_792,h_1008,strp/bowser_png_by_brokenheartdesignz_d6ebtax-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTMwMyIsInBhdGgiOiJcL2ZcLzc3YTYzOGMyLTlkMzQtNGY4ZC05YWVmLWVkYjhkMTk2YjMwNFwvZDZlYnRheC1iOTM4MDA1MC1iNjg3LTQzZGQtYTQyYi1mNzRjM2RkNTczMDcucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Bw_-_BSZzKDu771C-F92ZtRMDCf_Su_x96sXfkVA3Zw",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Link",
+    "image": "https://vignette.wikia.nocookie.net/ssbb/images/8/84/Link_SSBU.png/revision/latest?cb=20180613002622&path-prefix=es",
+    "count": 0
+  }
+]
