@@ -11,7 +11,6 @@ class App extends Component {
     score: 0,
     highscore: 0
   };
-
   gameOver = () => {
     if (this.state.score > this.state.highscore) {
       this.setState({highscore: this.state.score}, function() {
@@ -21,7 +20,10 @@ class App extends Component {
     this.state.characterCards.forEach(card => {
       card.count = 0;
     });
-    alert(`Game Over :( \nscore: ${this.state.score}`);
+    document.getElementById("root").classList.add('imageAnimation');
+    setTimeout(function () {
+      document.getElementById("root").classList.remove('imageAnimation')
+    }, 500)
     this.setState({score: 0});
     return true;
   }
